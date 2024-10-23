@@ -27,9 +27,3 @@ Additionally, the project calculates geographic distances between facilities to 
 
 ## Conclusion:
 By redistributing healthcare staff based on population needs and mapping out the geographic distances between facilities, this project provides actionable insights for improving healthcare service delivery. The interactive maps and data analysis enable decision-makers to efficiently allocate resources and manage inter-facility collaboration.
-
-## How to Run the Project:
-1. Clone the repository.
-2. Install the required Python libraries:
-   ```bash
-   pip install pandas geopy folium beautifulsoup4
